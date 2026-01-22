@@ -1,6 +1,6 @@
-# 🦷 OdontoCare — Proyecto Final Python C1
+# OdontoCare — Proyecto Final Python C1
 
-## 📌 Descripción General
+## Descripción General
 
 **OdontoCare** es una aplicación backend desarrollada como proyecto final del curso **Python C1**, cuyo objetivo es integrar y aplicar los conocimientos adquiridos en el diseño e implementación de una **API RESTful profesional**, segura y modular.
 
@@ -8,7 +8,7 @@ El sistema permite gestionar de manera eficiente las operaciones de una red de c
 
 ---
 
-## 🎯 Objetivos del Proyecto
+## Objetivos del Proyecto
 
 - Diseñar una API RESTful organizada y mantenible.
 - Implementar operaciones **CRUD** para:
@@ -25,11 +25,11 @@ El sistema permite gestionar de manera eficiente las operaciones de una red de c
 
 ---
 
-## 🏗️ Arquitectura de la Solución
+## Arquitectura de la Solución
 
 El proyecto está desarrollado utilizando **Flask** como framework backend, organizado mediante **Blueprints** para garantizar modularidad, escalabilidad y claridad en el código.
 
-### 📂 Estructura General del Proyecto
+### Estructura General del Proyecto
 
 ```bash
 odonto-care/
@@ -44,3 +44,4 @@ odonto-care/
 ├── app.py               # Inicialización de la aplicación
 ├── requirements.txt     # Dependencias del proyecto
 └── README.md
+
