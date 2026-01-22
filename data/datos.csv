@@ -1,0 +1,11 @@
+tipo;nombre;telefono;especialidad;direccion;username;password;estado
+centro;Clinica Central;;;Calle Falsa 123;;;
+centro;Clinica Norte;;;Calle Falsa 456;;;
+centro;Clinica Sur;;;Avenida Falsa 789;;;
+doctor;Dr. Juan;;Ortodoncia;;juan;pass111;
+doctor;Dra. Ana;;Endodoncia;;ana;pass222;
+doctor;Dr. Jose;;Radiografia;;jose;pass333;
+paciente;Mar�a;666111111;;;maria;pass444;ACTIVO
+paciente;Carlos;666222222;;;carlos;pass555;ACTIVO
+paciente;Javier;666333333;;;javier;pass666;ACTIVO
+admin;;;;;admin1;admin123;
